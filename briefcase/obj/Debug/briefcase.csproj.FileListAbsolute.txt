@@ -111,3 +111,4 @@ C:\development\briefcase\briefcase\obj\Debug\briefcase.pdb
 C:\development\briefcase\briefcase\obj\Debug\briefcase.Migrations.InitialCreate.resources
 C:\development\briefcase\briefcase\obj\Debug\briefcase.csproj.GenerateResource.Cache
 C:\development\briefcase\briefcase\obj\Debug\briefcase.Migrations.AddNullableDates.resources
+C:\development\briefcase\briefcase\obj\Debug\briefcase.Migrations.AddToPostModel.resources

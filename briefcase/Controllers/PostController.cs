@@ -30,8 +30,12 @@ namespace briefcase.Controllers
 
         public async Task<ActionResult> Create()
         {
-            ViewBag.Categories = await CategoryLookup("ruby");
-            return View();
+            var model = new Post
+            {
+                Categories = await CategoryLookup("ruby")
+            };
+
+            return View(model);
         }
 
         [HttpPost]
