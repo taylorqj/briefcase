@@ -1,0 +1,113 @@
+C:\Users\taylor\documents\visual studio 2015\Projects\briefcase\briefcase\bin\briefcase.dll.config
+C:\Users\taylor\documents\visual studio 2015\Projects\briefcase\briefcase\bin\briefcase.dll
+C:\Users\taylor\documents\visual studio 2015\Projects\briefcase\briefcase\bin\briefcase.pdb
+C:\Users\taylor\documents\visual studio 2015\Projects\briefcase\briefcase\bin\Antlr3.Runtime.dll
+C:\Users\taylor\documents\visual studio 2015\Projects\briefcase\briefcase\bin\EntityFramework.dll
+C:\Users\taylor\documents\visual studio 2015\Projects\briefcase\briefcase\bin\EntityFramework.SqlServer.dll
+C:\Users\taylor\documents\visual studio 2015\Projects\briefcase\briefcase\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\taylor\documents\visual studio 2015\Projects\briefcase\briefcase\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\taylor\documents\visual studio 2015\Projects\briefcase\briefcase\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\taylor\documents\visual studio 2015\Projects\briefcase\briefcase\bin\Microsoft.Owin.dll
+C:\Users\taylor\documents\visual studio 2015\Projects\briefcase\briefcase\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\taylor\documents\visual studio 2015\Projects\briefcase\briefcase\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\taylor\documents\visual studio 2015\Projects\briefcase\briefcase\bin\Microsoft.Owin.Security.dll
+C:\Users\taylor\documents\visual studio 2015\Projects\briefcase\briefcase\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\taylor\documents\visual studio 2015\Projects\briefcase\briefcase\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\taylor\documents\visual studio 2015\Projects\briefcase\briefcase\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\taylor\documents\visual studio 2015\Projects\briefcase\briefcase\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\taylor\documents\visual studio 2015\Projects\briefcase\briefcase\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\taylor\documents\visual studio 2015\Projects\briefcase\briefcase\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\taylor\documents\visual studio 2015\Projects\briefcase\briefcase\bin\Newtonsoft.Json.dll
+C:\Users\taylor\documents\visual studio 2015\Projects\briefcase\briefcase\bin\Owin.dll
+C:\Users\taylor\documents\visual studio 2015\Projects\briefcase\briefcase\bin\System.Web.Helpers.dll
+C:\Users\taylor\documents\visual studio 2015\Projects\briefcase\briefcase\bin\System.Web.Mvc.dll
+C:\Users\taylor\documents\visual studio 2015\Projects\briefcase\briefcase\bin\System.Web.Optimization.dll
+C:\Users\taylor\documents\visual studio 2015\Projects\briefcase\briefcase\bin\System.Web.Razor.dll
+C:\Users\taylor\documents\visual studio 2015\Projects\briefcase\briefcase\bin\System.Web.WebPages.Deployment.dll
+C:\Users\taylor\documents\visual studio 2015\Projects\briefcase\briefcase\bin\System.Web.WebPages.dll
+C:\Users\taylor\documents\visual studio 2015\Projects\briefcase\briefcase\bin\System.Web.WebPages.Razor.dll
+C:\Users\taylor\documents\visual studio 2015\Projects\briefcase\briefcase\bin\WebGrease.dll
+C:\Users\taylor\documents\visual studio 2015\Projects\briefcase\briefcase\bin\System.Web.Helpers.xml
+C:\Users\taylor\documents\visual studio 2015\Projects\briefcase\briefcase\bin\System.Web.Mvc.xml
+C:\Users\taylor\documents\visual studio 2015\Projects\briefcase\briefcase\bin\System.Web.Optimization.xml
+C:\Users\taylor\documents\visual studio 2015\Projects\briefcase\briefcase\bin\System.Web.Razor.xml
+C:\Users\taylor\documents\visual studio 2015\Projects\briefcase\briefcase\bin\System.Web.WebPages.xml
+C:\Users\taylor\documents\visual studio 2015\Projects\briefcase\briefcase\bin\System.Web.WebPages.Deployment.xml
+C:\Users\taylor\documents\visual studio 2015\Projects\briefcase\briefcase\bin\System.Web.WebPages.Razor.xml
+C:\Users\taylor\documents\visual studio 2015\Projects\briefcase\briefcase\bin\Antlr3.Runtime.pdb
+C:\Users\taylor\documents\visual studio 2015\Projects\briefcase\briefcase\bin\Newtonsoft.Json.xml
+C:\Users\taylor\documents\visual studio 2015\Projects\briefcase\briefcase\bin\EntityFramework.xml
+C:\Users\taylor\documents\visual studio 2015\Projects\briefcase\briefcase\bin\EntityFramework.SqlServer.xml
+C:\Users\taylor\documents\visual studio 2015\Projects\briefcase\briefcase\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\taylor\documents\visual studio 2015\Projects\briefcase\briefcase\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\taylor\documents\visual studio 2015\Projects\briefcase\briefcase\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\taylor\documents\visual studio 2015\Projects\briefcase\briefcase\bin\Microsoft.Owin.xml
+C:\Users\taylor\documents\visual studio 2015\Projects\briefcase\briefcase\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\taylor\documents\visual studio 2015\Projects\briefcase\briefcase\bin\Microsoft.Owin.Security.xml
+C:\Users\taylor\documents\visual studio 2015\Projects\briefcase\briefcase\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\taylor\documents\visual studio 2015\Projects\briefcase\briefcase\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\taylor\documents\visual studio 2015\Projects\briefcase\briefcase\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\taylor\documents\visual studio 2015\Projects\briefcase\briefcase\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\taylor\documents\visual studio 2015\Projects\briefcase\briefcase\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\taylor\documents\visual studio 2015\Projects\briefcase\briefcase\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\taylor\documents\visual studio 2015\Projects\briefcase\briefcase\obj\Debug\briefcase.csprojResolveAssemblyReference.cache
+C:\Users\taylor\documents\visual studio 2015\Projects\briefcase\briefcase\obj\Debug\briefcase.dll
+C:\Users\taylor\documents\visual studio 2015\Projects\briefcase\briefcase\obj\Debug\briefcase.pdb
+C:\development\briefcase\briefcase\bin\briefcase.dll.config
+C:\development\briefcase\briefcase\bin\briefcase.dll
+C:\development\briefcase\briefcase\bin\briefcase.pdb
+C:\development\briefcase\briefcase\bin\Antlr3.Runtime.dll
+C:\development\briefcase\briefcase\bin\EntityFramework.dll
+C:\development\briefcase\briefcase\bin\EntityFramework.SqlServer.dll
+C:\development\briefcase\briefcase\bin\Microsoft.AspNet.Identity.Core.dll
+C:\development\briefcase\briefcase\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\development\briefcase\briefcase\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\development\briefcase\briefcase\bin\Microsoft.Owin.dll
+C:\development\briefcase\briefcase\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\development\briefcase\briefcase\bin\Microsoft.Owin.Security.Cookies.dll
+C:\development\briefcase\briefcase\bin\Microsoft.Owin.Security.dll
+C:\development\briefcase\briefcase\bin\Microsoft.Owin.Security.Facebook.dll
+C:\development\briefcase\briefcase\bin\Microsoft.Owin.Security.Google.dll
+C:\development\briefcase\briefcase\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\development\briefcase\briefcase\bin\Microsoft.Owin.Security.OAuth.dll
+C:\development\briefcase\briefcase\bin\Microsoft.Owin.Security.Twitter.dll
+C:\development\briefcase\briefcase\bin\Microsoft.Web.Infrastructure.dll
+C:\development\briefcase\briefcase\bin\Newtonsoft.Json.dll
+C:\development\briefcase\briefcase\bin\Owin.dll
+C:\development\briefcase\briefcase\bin\System.Web.Helpers.dll
+C:\development\briefcase\briefcase\bin\System.Web.Mvc.dll
+C:\development\briefcase\briefcase\bin\System.Web.Optimization.dll
+C:\development\briefcase\briefcase\bin\System.Web.Razor.dll
+C:\development\briefcase\briefcase\bin\System.Web.WebPages.Deployment.dll
+C:\development\briefcase\briefcase\bin\System.Web.WebPages.dll
+C:\development\briefcase\briefcase\bin\System.Web.WebPages.Razor.dll
+C:\development\briefcase\briefcase\bin\WebGrease.dll
+C:\development\briefcase\briefcase\bin\System.Web.Helpers.xml
+C:\development\briefcase\briefcase\bin\System.Web.Mvc.xml
+C:\development\briefcase\briefcase\bin\System.Web.Optimization.xml
+C:\development\briefcase\briefcase\bin\System.Web.Razor.xml
+C:\development\briefcase\briefcase\bin\System.Web.WebPages.xml
+C:\development\briefcase\briefcase\bin\System.Web.WebPages.Deployment.xml
+C:\development\briefcase\briefcase\bin\System.Web.WebPages.Razor.xml
+C:\development\briefcase\briefcase\bin\Antlr3.Runtime.pdb
+C:\development\briefcase\briefcase\bin\Newtonsoft.Json.xml
+C:\development\briefcase\briefcase\bin\EntityFramework.xml
+C:\development\briefcase\briefcase\bin\EntityFramework.SqlServer.xml
+C:\development\briefcase\briefcase\bin\Microsoft.AspNet.Identity.Core.xml
+C:\development\briefcase\briefcase\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\development\briefcase\briefcase\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\development\briefcase\briefcase\bin\Microsoft.Owin.xml
+C:\development\briefcase\briefcase\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\development\briefcase\briefcase\bin\Microsoft.Owin.Security.xml
+C:\development\briefcase\briefcase\bin\Microsoft.Owin.Security.Facebook.xml
+C:\development\briefcase\briefcase\bin\Microsoft.Owin.Security.Cookies.xml
+C:\development\briefcase\briefcase\bin\Microsoft.Owin.Security.OAuth.xml
+C:\development\briefcase\briefcase\bin\Microsoft.Owin.Security.Google.xml
+C:\development\briefcase\briefcase\bin\Microsoft.Owin.Security.Twitter.xml
+C:\development\briefcase\briefcase\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\development\briefcase\briefcase\obj\Debug\briefcase.csprojResolveAssemblyReference.cache
+C:\development\briefcase\briefcase\obj\Debug\briefcase.dll
+C:\development\briefcase\briefcase\obj\Debug\briefcase.pdb
+C:\development\briefcase\briefcase\obj\Debug\briefcase.Migrations.InitialCreate.resources
+C:\development\briefcase\briefcase\obj\Debug\briefcase.csproj.GenerateResource.Cache
+C:\development\briefcase\briefcase\obj\Debug\briefcase.Migrations.AddNullableDates.resources
