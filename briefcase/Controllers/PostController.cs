@@ -32,7 +32,7 @@ namespace briefcase.Controllers
         {
             var model = new Post
             {
-                Categories = await CategoryLookup("ruby")
+                Categories = await CategoryLookup()
             };
 
             return View(model);
@@ -64,6 +64,11 @@ namespace briefcase.Controllers
         {
             var model = await Db.Post.FindAsync(id);
 
+            if (model != null)
+            {
+                model.Categories = await CategoryLookup();
+            }
+
             return model == null
                 ? null
                 : View(model);
@@ -77,16 +82,16 @@ namespace briefcase.Controllers
             post.Title = model.Title;
             post.Content = model.Content;
             post.LastModified = DateTime.UtcNow;
+            post.CategoryId = model.CategoryId;
 
             await Db.SaveChangesAsync();
 
             return RedirectToAction("Details", new {id = model.Id});
         }
 
-        public async Task<List<Category>> CategoryLookup(string term)
+        public async Task<List<Category>> CategoryLookup()
         {
             var categories = await this.Db.Category
-                .Where(c => c.Title.Contains(term))
                 .Take(10)
                 .ToListAsync();
 

@@ -112,3 +112,4 @@ C:\development\briefcase\briefcase\obj\Debug\briefcase.Migrations.InitialCreate.
 C:\development\briefcase\briefcase\obj\Debug\briefcase.csproj.GenerateResource.Cache
 C:\development\briefcase\briefcase\obj\Debug\briefcase.Migrations.AddNullableDates.resources
 C:\development\briefcase\briefcase\obj\Debug\briefcase.Migrations.AddToPostModel.resources
+C:\development\briefcase\briefcase\obj\Debug\briefcase.Migrations.FixModels.resources

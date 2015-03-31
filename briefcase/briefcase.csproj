@@ -182,6 +182,10 @@
     <Compile Include="Migrations\201503300406342_AddToPostModel.Designer.cs">
       <DependentUpon>201503300406342_AddToPostModel.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201503300600297_FixModels.cs" />
+    <Compile Include="Migrations\201503300600297_FixModels.Designer.cs">
+      <DependentUpon>201503300600297_FixModels.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\Category.cs" />
@@ -278,6 +282,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201503300406342_AddToPostModel.resx">
       <DependentUpon>201503300406342_AddToPostModel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201503300600297_FixModels.resx">
+      <DependentUpon>201503300600297_FixModels.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
