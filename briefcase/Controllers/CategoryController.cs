@@ -1,8 +1,11 @@
 ﻿using System;
 using System.Data.Entity;
+using System.Linq;
 using System.Threading.Tasks;
 using System.Web.Mvc;
+using System.Web.Security;
 using briefcase.Models;
+using Microsoft.AspNet.Identity;
 
 namespace briefcase.Controllers
 {
@@ -36,6 +39,10 @@ namespace briefcase.Controllers
         {
             model.RowCreated = DateTime.UtcNow;
             model.RowModified = DateTime.UtcNow;
+
+            var userId = User.Identity.GetUserId();
+
+            model.User = this.Db.ApplicationUser.SingleOrDefault(u => u.Id == userId);
 
             Db.Category.Add(model);
             await Db.SaveChangesAsync();

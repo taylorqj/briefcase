@@ -113,3 +113,7 @@ C:\development\briefcase\briefcase\obj\Debug\briefcase.csproj.GenerateResource.C
 C:\development\briefcase\briefcase\obj\Debug\briefcase.Migrations.AddNullableDates.resources
 C:\development\briefcase\briefcase\obj\Debug\briefcase.Migrations.AddToPostModel.resources
 C:\development\briefcase\briefcase\obj\Debug\briefcase.Migrations.FixModels.resources
+C:\development\briefcase\briefcase\bin\dotless.Core.dll
+C:\development\briefcase\briefcase\bin\dotless.Core.pdb
+C:\development\briefcase\briefcase\obj\Debug\briefcase.Migrations.User.resources
+C:\development\briefcase\briefcase\obj\Debug\briefcase.Migrations.UserId.resources

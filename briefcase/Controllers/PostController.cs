@@ -82,7 +82,7 @@ namespace briefcase.Controllers
             post.Title = model.Title;
             post.Content = model.Content;
             post.LastModified = DateTime.UtcNow;
-            post.CategoryId = model.CategoryId;
+            post.Category.Id = model.Category.Id;
 
             await Db.SaveChangesAsync();
 

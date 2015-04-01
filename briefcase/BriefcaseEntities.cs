@@ -1,3 +1,5 @@
+using Microsoft.AspNet.Identity.EntityFramework;
+
 namespace briefcase
 {
     using System;
@@ -18,10 +20,36 @@ namespace briefcase
         {
         }
 
+        public static BriefcaseEntities Create()
+        {
+            return new BriefcaseEntities();
+        }
+
+        protected override void OnModelCreating(DbModelBuilder modelBuilder)
+        {
+            base.OnModelCreating(modelBuilder);
+
+            modelBuilder.Entity<Post>()
+               .HasRequired(c => c.User)
+               .WithOptional()
+               .WillCascadeOnDelete(false);
+
+            modelBuilder.Entity<Category>()
+                .HasRequired(c => c.User)
+                .WithOptional()
+                .WillCascadeOnDelete(false);
+
+            modelBuilder.Entity<IdentityUserLogin>().HasKey<string>(l => l.UserId);
+            modelBuilder.Entity<IdentityRole>().HasKey<string>(r => r.Id);
+            modelBuilder.Entity<IdentityUserRole>().HasKey(r => new { r.RoleId, r.UserId });
+        }
+
         // Add a DbSet for each entity type that you want to include in your model. For more information 
         // on configuring and using a Code First model, see http://go.microsoft.com/fwlink/?LinkId=390109.
 
         public DbSet<Post> Post { get; set; }
         public DbSet<Category> Category { get; set; }
+
+        public DbSet<ApplicationUser> ApplicationUser { get; set; }
     }
 }

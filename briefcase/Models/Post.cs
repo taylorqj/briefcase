@@ -14,6 +14,7 @@ namespace briefcase.Models
         public DateTime? RowCreated { get; set; }
         public DateTime? LastModified { get; set; }
         public int? CategoryId { get; set; }
+        public virtual ApplicationUser User { get; set; }
         public List<Category> Categories { get; set; }
         public virtual Category Category { get; set; }
     }

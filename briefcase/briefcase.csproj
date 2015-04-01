@@ -39,6 +39,10 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="dotless.Core">
+      <HintPath>..\packages\dotless.1.4.4\lib\dotless.Core.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System" />
     <Reference Include="System.Data" />
@@ -186,6 +190,14 @@
     <Compile Include="Migrations\201503300600297_FixModels.Designer.cs">
       <DependentUpon>201503300600297_FixModels.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201504010537443_User.cs" />
+    <Compile Include="Migrations\201504010537443_User.Designer.cs">
+      <DependentUpon>201504010537443_User.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201504010554083_UserId.cs" />
+    <Compile Include="Migrations\201504010554083_UserId.Designer.cs">
+      <DependentUpon>201504010554083_UserId.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\Category.cs" />
@@ -286,6 +298,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201503300600297_FixModels.resx">
       <DependentUpon>201503300600297_FixModels.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201504010537443_User.resx">
+      <DependentUpon>201504010537443_User.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201504010554083_UserId.resx">
+      <DependentUpon>201504010554083_UserId.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
